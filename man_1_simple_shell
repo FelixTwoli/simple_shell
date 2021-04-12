@@ -13,25 +13,19 @@ hsh is Copyright (C) 2021 by Peggy Felix contributions.
 hsh is an
 .B sh-compatible
 command interpreter.
-
-hsh will work the same way as sh found in(/bin/sh)
-
+hsh will work the same way as sh found in (/bin/sh)
 .SH OPTIONS
 .PP
 To be ascertained in the progress
-
-
 .SH EXIT STATUS
 .PP
 To be determined
-
 .SH BUGS
 To be fixed if any
-
 .SH AUTHORS
 .PP
 NAME:
-.B Peggy Karani 
+.B Peggy Karani
 .RS i
 EMAIL:
 .B karanipeggy65@gmail.com
