@@ -1,0 +1,32 @@
+.TH hsh 1 "12 April 2021" "Peggy & Felix version 1.0" "General Commands Manual"
+.hy
+.SH NAME
+.PP
+hsh - Simple UNIX command interpreter
+.PP
+.SH SYNOPSIS
+hsh [options] [command_string | file]
+.SH COPYRIGHT
+hsh is Copyright (C) 2021 by Peggy Felix contributions.
+.SH DESCRIPTION
+.PP
+hsh is an
+.B sh-compatible
+command interpreter.
+hsh will work the same way as sh found in (/bin/sh)
+.SH OPTIONS
+.PP
+To be ascertained in the progress
+.SH EXIT STATUS
+.PP
+To be determined
+.SH BUGS
+To be fixed if any
+.SH AUTHORS
+.PP
+NAME:
+.B Peggy Karani
+.RS i
+EMAIL:
+.B karanipeggy65@gmail.com
+
